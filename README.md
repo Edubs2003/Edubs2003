@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan Waggoner</h1>
-<h3 align="center">A passionate about Data Science</h3>
+<h3 align="center">I am passionate about Data Science</h3>
 
 - 🔭 I’m currently working on a website ["PickupComps"](https://github.com/dracos-l/pickupcompsv2)
 
