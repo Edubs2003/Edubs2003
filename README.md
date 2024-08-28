@@ -5,7 +5,7 @@
 
 - 👯 I created a Machine Learning Algorithm to understanding ["The Madness of March"](https://github.com/Edubs2003/MarchMadness)
 
-- 📝 I wrote a Research Paper understanding ["The Effect of Cinderella Runs on College Admissions"]()
+- 📝 I wrote a Research Paper understanding ["The Effect of Cinderella Runs on College Admissions"](https://github.com/Edubs2003/Cinderella-Runs-on-College-Admissions)
 
 - 📫 How to reach me **waggonere@uchicago.edu**
 
