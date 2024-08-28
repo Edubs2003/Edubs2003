@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Waggoner</h1>
 <h3 align="center">I am passionate about Data Science and Basketball</h3>
 
-- 🔭 I’m currently working on a website ["PickupComps"](https://github.com/dracos-l/pickupcompsv2)
+- 🔭 I’m currently working on a website called ["PickupComps"](https://github.com/dracos-l/pickupcompsv2)
 
 - 👯 I created a Machine Learning Algorithm to understanding ["The Madness of March"](https://github.com/Edubs2003/MarchMadness)
 
